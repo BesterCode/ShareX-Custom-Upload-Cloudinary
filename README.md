@@ -12,7 +12,7 @@ Go to **Assets->Folders** and create a folder called `sharex`.<br>
 Go to [Settings->Upload->Presets](https://console.cloudinary.com/app/settings/upload/presets) and create a preset called `sharex`.<br>
 Set its Signing mode to `Unsigned` and Asset folder to `sharex` and **Save**.
 
-### Confire ShareX
+### Configure ShareX
 
 Go to **ShareX->Destinations->Custom Uploader Settings** and import these settings from clipboard:
 ```
